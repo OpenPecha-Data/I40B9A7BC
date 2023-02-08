@@ -1,0 +1,16 @@
+id: I40B9A7BC
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:01:01.075636
+last_modified: 2023-02-08 15:01:01.075774
+source_metadata:
+  title: 'BA: Daśabhūmikasūtra'
+  language: bo
+bases:
+  E1D4:
+    base_file: E1D4.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
